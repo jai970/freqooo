@@ -1,0 +1,6 @@
+{
+  "name": "AgentMailbox",
+  "description": "A context-sync protocol for AI agents. Durable threads, cold-restart by construction, and cross-platform continuity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
